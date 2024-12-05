@@ -41,7 +41,7 @@
   <a href="https://www.tiktok.com/@yogiitmbnn_" target="_blank">
     <img src=https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white alt=tiktok style="margin-bottom: 5px;" />
   </a>&emsp;
-  <a href="https://youtube.com/@zyggz?si=2wBB5A3v1jLZrQaR" target="_blank">
+  <a href="https://youtube.com/@xiigoy?si=tBcr6hWmQLiyS0Gu" target="_blank">
     <img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
   </a>
 </p>
