@@ -35,7 +35,7 @@
   <a href="https://www.facebook.com/handayogi.tambunan" target="_blank">
     <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>&emsp;
-  <a href="https://youtube.com/@xiigoy?si=tBcr6hWmQLiyS0Gu" target="_blank">
+  <a href="https://youtube.com/@xeegoy" target="_blank">
     <img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
   </a>
 </p>
