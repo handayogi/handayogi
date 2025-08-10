@@ -81,7 +81,7 @@
 
 ### 💻 &nbsp;Workspace Specs
 
-[![CPU](https://img.shields.io/badge/Intel-Core_i5_7400-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/products/sku/97147/intel-core-i57400-processor-6m-cache-up-to-3-50-ghz/specifications.html)&nbsp;
+[![CPU](https://img.shields.io/badge/Intel-Core_i5_8400-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/products/sku/97147/intel-core-i57400-processor-6m-cache-up-to-3-50-ghz/specifications.html)&nbsp;
 [![Graphics](https://img.shields.io/badge/NVIDIA-GTX950-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.techpowerup.com/gpu-specs/geforce-gtx-950.c2747)&nbsp;
 ![Ram](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)&nbsp;
 ![Storage](https://img.shields.io/badge/720GB%20SSD-grey?style=for-the-badge)&nbsp;
